@@ -1,0 +1,5 @@
+{
+  "name": "AI Quiz Generator",
+  "description": "Generate dynamic multiple-choice quizzes on any subject and topic using the power of AI. Customize the difficulty, number of questions, and get instant feedback with hints and explanations.",
+  "requestFramePermissions": []
+}
